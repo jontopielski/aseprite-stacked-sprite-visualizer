@@ -1,6 +1,6 @@
 **An Aseprite script that visualizes stacked sprites**
 
-![StackedSpriteScareCrow](https://user-images.githubusercontent.com/6269590/236537802-3934c5a2-863a-4dfd-a1a7-7d220685493d.gif)
+![StackedSpriteScareCrow](https://user-images.githubusercontent.com/6269590/236551162-79dc3ad5-bac4-4e3e-a610-6e6c43bbdf2d.gif)
 
 Take this spritesheet, containing each 'slice' of a 3-dimensional frog character:\
 ![image](https://user-images.githubusercontent.com/6269590/236532036-0f9980dd-4f6c-4d27-b88d-1faab9232f91.png)
