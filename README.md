@@ -1,4 +1,4 @@
-**An Aseprite script that will turn a spritesheet into a stacked sprite**
+**An Aseprite script that will help to visualize stacked sprites**
 
 ![StackedSpriteScareCrow](https://user-images.githubusercontent.com/6269590/236537802-3934c5a2-863a-4dfd-a1a7-7d220685493d.gif)
 
