@@ -1,8 +1,8 @@
-**An Aseprite script that will turn a spritesheet into a stacked sprite!**
+**An Aseprite script that will turn a spritesheet into a stacked sprite**
 
 ![StackedSpriteScareCrow](https://user-images.githubusercontent.com/6269590/236537802-3934c5a2-863a-4dfd-a1a7-7d220685493d.gif)
 
-Imagine this spritesheet, containing each 'slice' of a 3-dimensional frog character:\
+Take this spritesheet, containing each 'slice' of a 3-dimensional frog character:\
 ![image](https://user-images.githubusercontent.com/6269590/236532036-0f9980dd-4f6c-4d27-b88d-1faab9232f91.png)
 
 Displaying the frog character as a series of individual frames:\
