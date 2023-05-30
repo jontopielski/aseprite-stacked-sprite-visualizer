@@ -258,7 +258,7 @@ end
 -- creates the dialog and waits for input
 function main()
   dlg:separator{ text="Parameters" }
-  dlg:slider{ id="frameCount", label="Frame count (2^x)", min=0, max=5, value=3, onchange=updateFrameCount }
+  dlg:slider{ id="frameCount", label="Frame count (2^x)", min=0, max=6, value=3, onchange=updateFrameCount }
   dlg:slider{ id="frameDuration", label="Frame duration (*50ms)", min=1, max=8, value=4 }
   dlg:separator{ text="Render" }
   dlg:check{ id="alwaysResetFrame", label="Start at first frame", selected=false, focus=false }
