@@ -121,6 +121,7 @@ function rotateSprites()
       app.activeFrame = nextFrameIndex
       app.command.MaskAll()
       app.command.Rotate{target="mask", angle=angleRotation}
+      app.command.DeselectMask()
       if app.activeImage:isEmpty() then
         local fillerCel = app.activeSprite:newCel(app.activeLayer, nextFrameIndex)
         local fillerPixelImage = Image(app.activeSprite.width, app.activeSprite.height)
